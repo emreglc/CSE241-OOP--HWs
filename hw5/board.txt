@@ -1,0 +1,22 @@
+Total moves: 9
+Last move -> Rotate L to left 2 times, move to left 2 times
+####################
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#      LL          #
+#       L T        #
+#   IIIIL TTZ      #
+#    S    TZZ      #
+#    SS    Z       #
+#  LL S    T       #
+#   L SSOO TT      #
+#   LSS OO T       #
+####################

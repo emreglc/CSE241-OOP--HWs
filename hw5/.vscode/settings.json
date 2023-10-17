@@ -1,0 +1,17 @@
+{
+	"files.associations": {
+		"iostream": "cpp",
+		"vector": "cpp",
+		"string": "cpp",
+		"initializer_list": "cpp",
+		"type_traits": "cpp",
+		"xstring": "cpp",
+		"xutility": "cpp",
+		"array": "cpp",
+		"atomic": "cpp",
+		"chrono": "cpp",
+		"iosfwd": "cpp",
+		"iterator": "cpp",
+		"ostream": "cpp"
+	}
+}
